@@ -22,6 +22,9 @@
   <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" width="32" height="32" title="Jupyter"/>
 
   <img src="https://img.icons8.com/color/48/000000/pandas.png" title="Pandas"/>
+
+  <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" width="48" height="48" title="Numpy"/>
+
 </p>
 
 ---
