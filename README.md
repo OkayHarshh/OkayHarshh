@@ -19,7 +19,7 @@
  
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js"/>
   
-  <img src="https://jupyter.org/assets/share.png" title="Jupyter"/>
+  <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" title="Jupyter"/>
   <img src="https://img.icons8.com/color/48/000000/pandas.png" title="Pandas"/>
 </p>
 
