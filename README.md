@@ -7,7 +7,8 @@
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/>
-  <img src="https://img.icons8.com/ios-filled/48/000000/c-programming.png" title="C"/>
+  <img src="https://img.icons8.com/?size=100&id=25423&format=png&color=000000" width="48" height="48" title="C"/>
+
   <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/>
@@ -26,6 +27,8 @@
 
 
   <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" width="48" height="48" title="Jupyter"/>
+  <img src="https://img.icons8.com/?size=100&id=Rffi8qeb2fK5&format=png&color=000000" width="48" height="48" title="Streamlit"/>
+
 
 </p>
 
