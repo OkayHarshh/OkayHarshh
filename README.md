@@ -1,5 +1,5 @@
 <h1 align="center">Hey  👋, Harsh Here</h1>
-<p align="center">🚀 Aspiring Data Engineer | Python • SQL • Pandas • MongoDB • React</p>
+<p align="center">🚀 Aspiring Data Engineer | Python • SQL • Pandas • Numpy • Streamlit</p>
 
 ---
 
