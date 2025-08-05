@@ -33,10 +33,7 @@
 
 <!-- GitHub Streak Graph -->
 <h2 align="center">🔥 Current GitHub Streak</h2>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=okayharshh&show_icons=true&theme=tokyonight&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=okayharshh&theme=tokyonight" width="49%" />
-</p>
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=okayharshh&theme=tokyonight" width="49%" />
 
 <!-- Languages Chart -->
 <h2 align="center">💬 Most Used Languages</h2>
