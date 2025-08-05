@@ -32,8 +32,10 @@
 <h2 align="center">📈 GitHub Analytics</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=okayharshh&show_icons=true&theme=transparent&hide_border=true" width="47%" />
-  <img src="https://camo.githubusercontent.com/c8752ba983adceb1aa9d47757aea567bd169d0091af3f765a09790cbcf20375c/68747470733a2f2f6e69727a616b2d73747265616b2d73746174732e76657263656c2e6170702f3f757365723d4e697368696b616e744b756d61722d3938267468656d653d6461726b26686964655f626f726465723d74727565" width="47%" />
+
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=okayharshh)](https://git.io/streak-stats)
 
 <!-- GitHub Streak Graph -->
 <h2 align="center">🔥 Current GitHub Streak</h2>
