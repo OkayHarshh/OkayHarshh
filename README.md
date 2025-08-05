@@ -28,7 +28,7 @@
 <h2 align="center">📈 GitHub Analytics</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=okayharshh&show_icons=true&theme=transparent&hide_border=true" width="47%" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=OkayHarshh" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=okayharshh" alt="GitHub Streak" /></a>
 </p>
 
 
