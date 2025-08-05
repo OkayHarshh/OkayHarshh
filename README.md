@@ -8,7 +8,7 @@
 
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://readme-hero-stats.vercel.app/api?username=okayharshh&style=flat&color=ffd700" alt="Harsh's GitHub Banner" />
+  <img src="https://github.com/okayharshh/okayharshh/assets/your-banner.png" alt="Harsh's GitHub Banner" width="1000" />
 </p>
 
 <h1 align="center" style="color:#2e2e2e; font-size: 36px;">👋 Hi there, I'm <span style="color:#6C63FF;">Harsh</span></h1>
@@ -33,6 +33,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=okayharshh&show_icons=true&theme=transparent&hide_border=true" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=okayharshh&theme=transparent&hide_border=true" width="47%" />
+</p>
+
+<!-- GitHub Streak Graph -->
+<h2 align="center">🔥 Current GitHub Streak</h2>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=okayharshh&theme=tokyonight&hide_border=true" />
 </p>
 
 <!-- Languages Chart -->
