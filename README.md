@@ -4,84 +4,69 @@
   <meta charset="UTF-8">
   <title>Harsh's GitHub Profile README</title>
 </head>
-<body>
+<body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #ffffff; color: #2e2e2e;">
 
-<!-- Header -->
-<h1 align="center">Hey 👋, Harsh Here</h1>
-<p align="center">🚀 Aspiring Data Engineer | Python • SQL • Pandas • Numpy • Streamlit</p>
-
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Data+Engineering+Enthusiast;Python+%7C+SQL+%7C+ETL+Pipelines;Learning+PostgreSQL+and+Airflow&center=true&width=500&height=45&color=79ff97&font=monospace"/>
+  <img src="https://readme-hero-stats.vercel.app/api?username=okayharshh&style=flat&color=ffd700" alt="Harsh's GitHub Banner" />
 </p>
 
----
+<h1 align="center" style="color:#2e2e2e; font-size: 36px;">👋 Hi there, I'm <span style="color:#6C63FF;">Harsh</span></h1>
+<p align="center" style="font-size: 18px; color: #555;">🚀 Aspiring Data Engineer | Building beautiful data pipelines | Focused on impact, clarity & scalability</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Python+%7C+SQL+%7C+ETL+Pipelines+%7C+PostgreSQL+%7C+Airflow;Crafting+Data+Solutions+That+Scale!&center=true&width=550&height=45&color=6C63FF&font=Fira+Code"/>
+</p>
+
+<hr style="height: 2px; background-color: #6C63FF; border: none; width: 80%;">
 
 <!-- Tech Stack -->
-<h2>🧰 Languages and Tools I Use:</h2>
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/>
-  <img src="https://img.icons8.com/?size=100&id=25423&format=png&color=000000" width="48" height="48" title="C"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
-  <img src="https://img.icons8.com/color/48/000000/github--v1.png" title="GitHub"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreSQL"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js"/>
-  <img src="https://img.icons8.com/color/48/000000/pandas.png" title="Pandas"/>
-  <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" width="48" height="48" title="NumPy"/>
-  <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" width="48" height="48" title="Jupyter"/>
-  <img src="https://img.icons8.com/?size=100&id=Rffi8qeb2fK5&format=png&color=000000" width="48" height="48" title="Streamlit"/>
+<h2 align="center">⚙️ Tech Stack & Tools</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,git,github,mysql,postgres,nodejs,pandas,numpy,jupyter,streamlit&theme=light" />
 </p>
 
----
+<hr style="height: 2px; background-color: #6C63FF; border: none; width: 80%;">
 
 <!-- GitHub Stats -->
-<h2>📈 GitHub Stats</h2>
+<h2 align="center">📈 GitHub Analytics</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=okayharshh&show_icons=true&theme=tokyonight&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=okayharshh&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=okayharshh&show_icons=true&theme=transparent&hide_border=true" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=okayharshh&theme=transparent&hide_border=true" width="47%" />
 </p>
 
-<!-- Most Used Languages -->
-<h2>📊 Most Used Languages</h2>
+<!-- Languages Chart -->
+<h2 align="center">💬 Most Used Languages</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okayharshh&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okayharshh&layout=compact&theme=transparent&hide_border=true" width="50%"/>
 </p>
-
----
 
 <!-- GitHub Trophies -->
-<h2>🏆 GitHub Trophy</h2>
+<h2 align="center">🏆 Developer Highlights</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=okayharshh&theme=algolia&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=okayharshh&theme=flat&margin-w=10&column=6" />
 </p>
 
----
+<hr style="height: 2px; background-color: #6C63FF; border: none; width: 80%;">
 
 <!-- Ask Me About -->
-<h2>💬 Ask Me About</h2>
+<h2>💡 Ask Me About</h2>
 <ul>
-  <li>Data Engineering (Python + SQL + Pandas + MySQL + PostgreSQL)</li>
-  <li>Building ETL pipelines</li>
-  <li>GitHub Projects & Open Source Contributions</li>
+  <li>Data Engineering (Python + SQL + Pandas + PostgreSQL + Airflow)</li>
+  <li>Building scalable ETL pipelines and data automation</li>
+  <li>Open-source projects, GitHub portfolio building</li>
 </ul>
 
----
-
-<!-- Let's Connect -->
-<h2>💬 Let's Connect</h2>
+<!-- Contact -->
+<h2 align="center">📬 Let's Connect</h2>
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:youremail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 </body>
 </html>
-
