@@ -2,10 +2,14 @@
 <html>
 <head>
   <meta charset="UTF-8">
-
+  <title>Harsh's GitHub Profile README</title>
 </head>
 <body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #ffffff; color: #2e2e2e;">
 
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://github.com/okayharshh/okayharshh/assets/your-banner.png" alt="Harsh's GitHub Banner" width="1000" />
+</p>
 
 <h1 align="center" style="color:#2e2e2e; font-size: 36px;">👋 Hi there, I'm <span style="color:#6C63FF;">Harsh</span></h1>
 <p align="center" style="font-size: 18px; color: #555;">🚀 Aspiring Data Engineer | Building beautiful data pipelines | Focused on impact, clarity & scalability</p>
@@ -27,12 +31,15 @@
 <!-- GitHub Stats -->
 <h2 align="center">📈 GitHub Analytics</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=okayharshh&show_icons=true&theme=tokyonight&count_private=true" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=okayharshh&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=okayharshh&show_icons=true&theme=transparent&hide_border=true" width="47%" />
+  <img src="https://camo.githubusercontent.com/c8752ba983adceb1aa9d47757aea567bd169d0091af3f765a09790cbcf20375c/68747470733a2f2f6e69727a616b2d73747265616b2d73746174732e76657263656c2e6170702f3f757365723d4e697368696b616e744b756d61722d3938267468656d653d6461726b26686964655f626f726465723d74727565" width="47%" />
 </p>
 
-
-
+<!-- GitHub Streak Graph -->
+<h2 align="center">🔥 Current GitHub Streak</h2>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=okayharshh&theme=tokyonight&hide_border=true" />
+</p>
 
 <!-- Languages Chart -->
 <h2 align="center">💬 Most Used Languages</h2>
@@ -62,7 +69,7 @@
   <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:harshkumarm2005@gmail.com" target="_blank">
+  <a href="mailto:youremail@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
