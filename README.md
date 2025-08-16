@@ -1,11 +1,4 @@
 
-</head>
-<body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #ffffff; color: #2e2e2e;">
-
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://github.com/okayharshh/okayharshh/assets/your-banner.png" alt="Harsh's GitHub Banner" width="1000" />
-</p>
 
 <h1 align="center" style="color:#2e2e2e; font-size: 36px;">👋 Hi there, I'm <span style="color:#6C63FF;">Harsh</span></h1>
 <p align="center" style="font-size: 18px; color: #555;">🚀 Aspiring Data Engineer | Building beautiful data pipelines | Focused on impact, clarity & scalability</p>
@@ -33,11 +26,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=okayharshh)](https://git.io/streak-stats)
 
-<!-- GitHub Streak Graph -->
-<h2 align="center">🔥 Current GitHub Streak</h2>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=okayharshh&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <!-- Languages Chart -->
 <h2 align="center">💬 Most Used Languages</h2>
