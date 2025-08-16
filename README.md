@@ -4,7 +4,7 @@
 <p align="center" style="font-size: 18px; color: #555;">🚀 Aspiring Data Engineer | Building beautiful data pipelines | Focused on impact, clarity & scalability</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=..Python+%7C+ETL+Pipelines+%7C+PostgreSQL+%7C+Airflow&center=true&width=550&height=45&color=6C63FF&font=Fira+Code"/>
+  <img src="https://readme-typing-svg.demolab.com?lines=Python+%7C+ETL+Pipelines+%7C+PostgreSQL+%7C+Airflow&center=true&width=550&height=45&color=6C63FF&font=Fira+Code"/>
 </p>
 
 <hr style="height: 2px; background-color: #6C63FF; border: none; width: 80%;">
