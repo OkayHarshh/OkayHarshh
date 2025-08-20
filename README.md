@@ -1,7 +1,7 @@
 
 
 <h1 align="center" style="color:#2e2e2e; font-size: 36px;"> Hi  I'm <span style="color:#6C63FF;">Harsh Here</span></h1>
-<p align="center" style="font-size: 18px; color: #555;">🚀 Aspiring Data Engineer | Building beautiful data pipelines | Focused on impact, clarity & scalability</p>
+<p align="center" style="font-size: 18px; color: #555;"> Aspiring Data Engineer | Building beautiful data pipelines | Focused on impact, clarity & scalability</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?lines=Python+%7C+ETL+Pipelines+%7C+PostgreSQL+%7C+Airflow&center=true&width=550&height=45&color=6C63FF&font=Fira+Code"/>
