@@ -1,6 +1,6 @@
 
 
-<h1 align="center" style="color:#2e2e2e; font-size: 36px;"> Hi  I'm <span style="color:#6C63FF;">Harsh Here</span></h1>
+<h1 align="center" style="color:#2e2e2e; font-size: 36px;"> Harsh <span style="color:#6C63FF;">Here</span></h1>
 <p align="center" style="font-size: 18px; color: #555;"> Aspiring Data Engineer | Building beautiful data pipelines | Focused on impact, clarity & scalability</p>
 
 <p align="center">
