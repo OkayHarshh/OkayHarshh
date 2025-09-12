@@ -12,7 +12,7 @@
 <!-- Tech Stack -->
 <h2 align="center">⚙️ Tech Stack & Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,git,github,mysql,postgres,nodejs,pandas,numpy,jupyter,streamlit&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,git,github,mysql,postgres,nodejs,pandas,numpy,jupyter,Cursor,streamlit&theme=light" />
 </p>
 
 <hr style="height: 2px; background-color: #6C63FF; border: none; width: 80%;">
