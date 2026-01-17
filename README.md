@@ -16,8 +16,23 @@
 <h2 align="center">⚙️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,git,github,mysql,postgres,nodejs,pandas,numpy,jupyter,streamlit,snowflake&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,fastapi&theme=dark" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,html,css,js,cpp,c&theme=dark" />
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+</p>
+
+
 
 ---
 
